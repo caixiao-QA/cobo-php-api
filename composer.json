@@ -1,5 +1,5 @@
 {
-  "name": "cobo_custody_temp_invalid",
+  "name": "cobo_custody_temp_test",
   "description": "Cobo Custody php sdk",
   "type": "library",
   "require": {
